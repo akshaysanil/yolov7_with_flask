@@ -1,2 +1,5 @@
 # YoloV7 with flask .
-rtsp is added
+* created for itms and here we applying the easyocr to extract numberplate
+* with rtsp 
+
+
